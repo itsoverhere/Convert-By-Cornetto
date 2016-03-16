@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="db_id" type="id"></item>
+    <item name="adapter_position" type="id"></item>
+
+</resources>
